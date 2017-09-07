@@ -28,7 +28,8 @@ High Fantasy Tolkien lore.
 | Leveling System  | XP after event |  |
 | Leveling System  | XP hits threshold | Level up event |
 | Leveling System  |Stat point on level up |  |
-| Inventory  | Health Potion | in progress |
+| Magic System | Cast a Health Spell |  |
+| Inventory  | Health Potion |  |
 | Inventory  | Item adds modifier to event |  |
 | Inventory  | Item adds modifier to multiple events |  |
 | Save System  | Progress is saved for user |  |
