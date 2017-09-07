@@ -1,15 +1,18 @@
 //Player Function
-let players = function(attack, health){
+export class Player {
+  constructor(attack, health) {
     this.attack = attack;
     this.health = health;
-};
+  }
 
-//Make Player Here
-let player = new players(50, 1000);
-
-// if dead
-if (player.health < 0) {
-playerdead = 1;
-battle = 0;
+  checkIfPlayerDead() {
+    if (player.health <= 0) {
+      let playerDead = true;
+  }
+}
+  checkIfOpponentDead() {
+    if (opponent.health <= 0) {
+      let opponentDead = true;
+  }
 }
 }
