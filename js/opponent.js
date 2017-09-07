@@ -4,7 +4,7 @@ class Opponent {
     this.attack = attack;
     this.health = health;
   }
-  
+
   checkOpponent() {
     if (opponent.health <= 0) {
       let opponentDead = true;
@@ -16,4 +16,4 @@ class Opponent {
     selectedmonster = goblin;
     names = "goblin";
   }
-};
+}
